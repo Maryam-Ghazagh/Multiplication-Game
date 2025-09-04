@@ -8,9 +8,9 @@ A fun text-based Python game designed to help kids (or anyone!) practice multipl
 
 Solve multiplication problems to earn points.<br>
 
-**Level 1:** Single-digit multiplication (1–9)
+**Level 1:** Single-digit multiplication **(1–9)**
 
-**Level 2:** Double-digit multiplication (1–19), unlocked after scoring 10 points. <br>
+**Level 2:** Double-digit multiplication **(1–19)**, unlocked **after scoring 10 points**. <br>
 
 Randomized questions make each game a fresh challenge!
 <br>
