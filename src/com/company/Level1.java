@@ -41,7 +41,7 @@ public class Level1 {
             System.out.println("if you want play again, Enter yes or y.");
             System.out.print("> ");
             String answer = input.nextLine();
-            if(answer.equals("yes") || answer.equals("y") || answer.equals("Yes")){
+            if(answer.equals("yes") || answer.equals("y") || answer.equals("Yes") || answer.equals("Y")){
                 test();
             }
             else{
